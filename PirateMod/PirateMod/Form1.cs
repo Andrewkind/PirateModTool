@@ -162,59 +162,59 @@ namespace PirateMod
 
             //System.IO.StreamWriter file = new System.IO.StreamWriter(fileName); // overwrites..
 
-            file.WriteLine("event text^ " + f_eventText);      
+            file.WriteLine("~event text^ " + f_eventText);      
             
 
             // start of 1
             //SUCCESS FAILURE TEXT INFO 1
-            file.WriteLine("option text1^ " + optionText1.Text);
-            file.WriteLine("success text1^ " + f_firstResultText1);
-            file.WriteLine("fail text1^ " + SecondResultText1.Text);
+            file.WriteLine("~option text1^ " + optionText1.Text);
+            file.WriteLine("~success text1^ " + f_firstResultText1);
+            file.WriteLine("~fail text1^ " + SecondResultText1.Text);
 
             
 
             // ODDS INFO 1
-            file.WriteLine("odds1^" + f_firstOdds1);
+            file.WriteLine("~odds1^" + f_firstOdds1);
 
-            file.WriteLine("odds Wit1^" + numericUpDownOddsWit1.Value);
-            file.WriteLine("odds Morale1^" + numericUpDownOddsMorale1.Value);
-            file.WriteLine("odds Notoriety1^" + numericUpDownOddsNotoriety1.Value);
-            file.WriteLine("odds Charisma1^" + numericUpDownOddsCharisma1.Value);
-            file.WriteLine("odds Evil1^" + numericUpDownOddsEvil1.Value);
+            file.WriteLine("~odds Wit1^" + numericUpDownOddsWit1.Value);
+            file.WriteLine("~odds Morale1^" + numericUpDownOddsMorale1.Value);
+            file.WriteLine("~odds Notoriety1^" + numericUpDownOddsNotoriety1.Value);
+            file.WriteLine("~odds Charisma1^" + numericUpDownOddsCharisma1.Value);
+            file.WriteLine("~odds Evil1^" + numericUpDownOddsEvil1.Value);
 
-            file.WriteLine("odds Crew1^" + numericUpDownOddsCrew1.Value);
-            file.WriteLine("odds Integrity1^" + numericUpDownOddsIntegrity1.Value);
-            file.WriteLine("odds Ale1^" + numericUpDownOddsAle1.Value);
-            file.WriteLine("odds Gunpowder1^" + numericUpDownOddsGunpowder1.Value);
-            file.WriteLine("odds Coins1^" + numericUpDownOddsGold1.Value);
+            file.WriteLine("~odds Crew1^" + numericUpDownOddsCrew1.Value);
+            file.WriteLine("~odds Integrity1^" + numericUpDownOddsIntegrity1.Value);
+            file.WriteLine("~odds Ale1^" + numericUpDownOddsAle1.Value);
+            file.WriteLine("~odds Gunpowder1^" + numericUpDownOddsGunpowder1.Value);
+            file.WriteLine("~odds Coins1^" + numericUpDownOddsGold1.Value);
             
             //End of odds  1
 
             //success rewards 1
-            file.WriteLine("Success Wit1^" + numericUpDownFirstWit1.Value);
-            file.WriteLine("Success Morale1^" + numericUpDownFirstMorale1.Value);
-            file.WriteLine("Success Notoriety1^" + numericUpDownFirstNotoriety1.Value);
-            file.WriteLine("Success Charisma1^" + numericUpDownFirstCharisma1.Value);
-            file.WriteLine("Success Evil1^" + numericUpDownFirstEvil1.Value);
+            file.WriteLine("~Success Wit1^" + numericUpDownFirstWit1.Value);
+            file.WriteLine("~Success Morale1^" + numericUpDownFirstMorale1.Value);
+            file.WriteLine("~Success Notoriety1^" + numericUpDownFirstNotoriety1.Value);
+            file.WriteLine("~Success Charisma1^" + numericUpDownFirstCharisma1.Value);
+            file.WriteLine("~Success Evil1^" + numericUpDownFirstEvil1.Value);
 
-            file.WriteLine("Success Crew1^" + numericUpDownFirstCrew1.Value);
-            file.WriteLine("Success Integrity1^" + numericUpDownFirstIntegrity1.Value);
-            file.WriteLine("Success Ale1^" + numericUpDownFirstAle1.Value);
-            file.WriteLine("Success Gunpowder1^" + numericUpDownFirstGunpowder1.Value);
-            file.WriteLine("Success Coins1^" + numericUpDownFirstGold1.Value);
+            file.WriteLine("~Success Crew1^" + numericUpDownFirstCrew1.Value);
+            file.WriteLine("~Success Integrity1^" + numericUpDownFirstIntegrity1.Value);
+            file.WriteLine("~Success Ale1^" + numericUpDownFirstAle1.Value);
+            file.WriteLine("~Success Gunpowder1^" + numericUpDownFirstGunpowder1.Value);
+            file.WriteLine("~Success Coins1^" + numericUpDownFirstGold1.Value);
 
             //failure rewards 1
-            file.WriteLine("Failure Wit1^" + numericUpDownSecondWit1.Value);
-            file.WriteLine("Failure Morale1^" + numericUpDownSecondMorale1.Value);
-            file.WriteLine("Failure Notoriety1^" + numericUpDownSecondNotoriety1.Value);
-            file.WriteLine("Failure Charisma1^" + numericUpDownSecondCharisma1.Value);
-            file.WriteLine("Failure Evil1^" + numericUpDownSecondEvil1.Value);
+            file.WriteLine("~Failure Wit1^" + numericUpDownSecondWit1.Value);
+            file.WriteLine("~Failure Morale1^" + numericUpDownSecondMorale1.Value);
+            file.WriteLine("~Failure Notoriety1^" + numericUpDownSecondNotoriety1.Value);
+            file.WriteLine("~Failure Charisma1^" + numericUpDownSecondCharisma1.Value);
+            file.WriteLine("~Failure Evil1^" + numericUpDownSecondEvil1.Value);
 
-            file.WriteLine("Failure Crew1^" + numericUpDownSecondCrew1.Value);
-            file.WriteLine("Failure Integrity1^" + numericUpDownSecondIntegrity1.Value);
-            file.WriteLine("Failure Ale1^" + numericUpDownSecondAle1.Value);
-            file.WriteLine("Failure Gunpowder1^" + numericUpDownSecondGunpowder1.Value);
-            file.WriteLine("Failure Coins1^" + numericUpDownSecondGold1.Value);
+            file.WriteLine("~Failure Crew1^" + numericUpDownSecondCrew1.Value);
+            file.WriteLine("~Failure Integrity1^" + numericUpDownSecondIntegrity1.Value);
+            file.WriteLine("~Failure Ale1^" + numericUpDownSecondAle1.Value);
+            file.WriteLine("~Failure Gunpowder1^" + numericUpDownSecondGunpowder1.Value);
+            file.WriteLine("~Failure Coins1^" + numericUpDownSecondGold1.Value);
             // END OF 1
 
        
@@ -222,53 +222,53 @@ namespace PirateMod
 
             // start of 2
             //SUCCESS FAILURE TEXT INFO 1
-            file.WriteLine("option text2^" + optionText2.Text);
-            file.WriteLine("success text2^" + FirstResultText2.Text);
-            file.WriteLine("fail text2^" + SecondResultText2.Text);
+            file.WriteLine("~option text2^" + optionText2.Text);
+            file.WriteLine("~success text2^" + FirstResultText2.Text);
+            file.WriteLine("~fail text2^" + SecondResultText2.Text);
 
 
             // ODDS INFO 2
-            file.WriteLine("odds2^" + firstOdds2.Value);
+            file.WriteLine("~odds2^" + firstOdds2.Value);
 
-            file.WriteLine("odds Wit2^" + numericUpDownOddsWit2.Value);
-            file.WriteLine("odds Morale2^" + numericUpDownOddsMorale2.Value);
-            file.WriteLine("odds Notoriety2^" + numericUpDownOddsNotoriety2.Value);
-            file.WriteLine("odds Charisma2^" + numericUpDownOddsCharisma2.Value);
-            file.WriteLine("odds Evil2^" + numericUpDownOddsEvil2.Value);
+            file.WriteLine("~odds Wit2^" + numericUpDownOddsWit2.Value);
+            file.WriteLine("~odds Morale2^" + numericUpDownOddsMorale2.Value);
+            file.WriteLine("~odds Notoriety2^" + numericUpDownOddsNotoriety2.Value);
+            file.WriteLine("~odds Charisma2^" + numericUpDownOddsCharisma2.Value);
+            file.WriteLine("~odds Evil2^" + numericUpDownOddsEvil2.Value);
 
-            file.WriteLine("odds Crew2^" + numericUpDownOddsCrew2.Value);
-            file.WriteLine("odds Integrity2^" + numericUpDownOddsIntegrity2.Value);
-            file.WriteLine("odds Ale2^" + numericUpDownOddsAle2.Value);
-            file.WriteLine("odds Gunpowder2^" + numericUpDownOddsGunpowder2.Value);
-            file.WriteLine("odds Coins2^" + numericUpDownOddsGold2.Value);
+            file.WriteLine("~odds Crew2^" + numericUpDownOddsCrew2.Value);
+            file.WriteLine("~odds Integrity2^" + numericUpDownOddsIntegrity2.Value);
+            file.WriteLine("~odds Ale2^" + numericUpDownOddsAle2.Value);
+            file.WriteLine("~odds Gunpowder2^" + numericUpDownOddsGunpowder2.Value);
+            file.WriteLine("~odds Coins2^" + numericUpDownOddsGold2.Value);
 
             //End of odds  2 46
 
             //success rewards 2
-            file.WriteLine("Success Wit2^" + numericUpDownFirstWit2.Value);
-            file.WriteLine("Success Morale2^" + numericUpDownFirstMorale2.Value);
-            file.WriteLine("Success Notoriety2^" + numericUpDownFirstNotoriety2.Value);
-            file.WriteLine("Success Charisma2^" + numericUpDownFirstCharisma2.Value);
-            file.WriteLine("Success Evil2^" + numericUpDownFirstEvil2.Value);
+            file.WriteLine("~Success Wit2^" + numericUpDownFirstWit2.Value);
+            file.WriteLine("~Success Morale2^" + numericUpDownFirstMorale2.Value);
+            file.WriteLine("~Success Notoriety2^" + numericUpDownFirstNotoriety2.Value);
+            file.WriteLine("~Success Charisma2^" + numericUpDownFirstCharisma2.Value);
+            file.WriteLine("~Success Evil2^" + numericUpDownFirstEvil2.Value);
 
-            file.WriteLine("Success Crew2^" + numericUpDownFirstCrew2.Value);
-            file.WriteLine("Success Integrity2^" + numericUpDownFirstIntegrity2.Value);
-            file.WriteLine("Success Ale2^" + numericUpDownFirstAle2.Value);
-            file.WriteLine("Success Gunpowder2^" + numericUpDownFirstGunpowder2.Value);
-            file.WriteLine("Success Coins2^" + numericUpDownFirstGold2.Value);
+            file.WriteLine("~Success Crew2^" + numericUpDownFirstCrew2.Value);
+            file.WriteLine("~Success Integrity2^" + numericUpDownFirstIntegrity2.Value);
+            file.WriteLine("~Success Ale2^" + numericUpDownFirstAle2.Value);
+            file.WriteLine("~Success Gunpowder2^" + numericUpDownFirstGunpowder2.Value);
+            file.WriteLine("~Success Coins2^" + numericUpDownFirstGold2.Value);
 
             //failure rewards 2
-            file.WriteLine("Failure Wit2^" + numericUpDownSecondWit2.Value);
-            file.WriteLine("Failure Morale2^" + numericUpDownSecondMorale2.Value);
-            file.WriteLine("Failure Notoriety2^" + numericUpDownSecondNotoriety2.Value);
-            file.WriteLine("Failure Charisma2^" + numericUpDownSecondCharisma2.Value);
-            file.WriteLine("Failure Evil2^" + numericUpDownSecondEvil2.Value);
+            file.WriteLine("~Failure Wit2^" + numericUpDownSecondWit2.Value);
+            file.WriteLine("~Failure Morale2^" + numericUpDownSecondMorale2.Value);
+            file.WriteLine("~Failure Notoriety2^" + numericUpDownSecondNotoriety2.Value);
+            file.WriteLine("~Failure Charisma2^" + numericUpDownSecondCharisma2.Value);
+            file.WriteLine("~Failure Evil2^" + numericUpDownSecondEvil2.Value);
 
-            file.WriteLine("Failure Crew2^" + numericUpDownSecondCrew2.Value);
-            file.WriteLine("Failure Integrity2^" + numericUpDownSecondIntegrity2.Value);
-            file.WriteLine("Failure Ale2^" + numericUpDownSecondAle2.Value);
-            file.WriteLine("Failure Gunpowder2^" + numericUpDownSecondGunpowder2.Value);
-            file.WriteLine("Failure Coins2^" + numericUpDownSecondGold2.Value);
+            file.WriteLine("~Failure Crew2^" + numericUpDownSecondCrew2.Value);
+            file.WriteLine("~Failure Integrity2^" + numericUpDownSecondIntegrity2.Value);
+            file.WriteLine("~Failure Ale2^" + numericUpDownSecondAle2.Value);
+            file.WriteLine("~Failure Gunpowder2^" + numericUpDownSecondGunpowder2.Value);
+            file.WriteLine("~Failure Coins2^" + numericUpDownSecondGold2.Value);
             
        
             //End of   2
