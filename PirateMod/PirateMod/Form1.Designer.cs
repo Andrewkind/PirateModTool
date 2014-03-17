@@ -51,20 +51,40 @@
             this.numericUpDownOddsAle1 = new System.Windows.Forms.NumericUpDown();
             this.numericUpDownOddsIntegrity1 = new System.Windows.Forms.NumericUpDown();
             this.groupBox2 = new System.Windows.Forms.GroupBox();
+            this.label17 = new System.Windows.Forms.Label();
+            this.label16 = new System.Windows.Forms.Label();
+            this.label15 = new System.Windows.Forms.Label();
+            this.label14 = new System.Windows.Forms.Label();
+            this.label13 = new System.Windows.Forms.Label();
+            this.label12 = new System.Windows.Forms.Label();
+            this.label11 = new System.Windows.Forms.Label();
+            this.label10 = new System.Windows.Forms.Label();
+            this.label9 = new System.Windows.Forms.Label();
+            this.label8 = new System.Windows.Forms.Label();
             this.label3 = new System.Windows.Forms.Label();
             this.groupBox3 = new System.Windows.Forms.GroupBox();
+            this.label30 = new System.Windows.Forms.Label();
             this.numericUpDownFirstCrew1 = new System.Windows.Forms.NumericUpDown();
+            this.label31 = new System.Windows.Forms.Label();
             this.numericUpDownFirstEvil1 = new System.Windows.Forms.NumericUpDown();
+            this.label32 = new System.Windows.Forms.Label();
             this.numericUpDownFirstGold1 = new System.Windows.Forms.NumericUpDown();
+            this.label33 = new System.Windows.Forms.Label();
             this.numericUpDownFirstGunpowder1 = new System.Windows.Forms.NumericUpDown();
+            this.label34 = new System.Windows.Forms.Label();
+            this.label35 = new System.Windows.Forms.Label();
             this.numericUpDownFirstAle1 = new System.Windows.Forms.NumericUpDown();
+            this.label36 = new System.Windows.Forms.Label();
             this.numericUpDownFirstIntegrity1 = new System.Windows.Forms.NumericUpDown();
+            this.label37 = new System.Windows.Forms.Label();
             this.numericUpDownFirstCharisma1 = new System.Windows.Forms.NumericUpDown();
+            this.label38 = new System.Windows.Forms.Label();
             this.numericUpDownFirstNotoriety1 = new System.Windows.Forms.NumericUpDown();
+            this.label39 = new System.Windows.Forms.Label();
             this.numericUpDownFirstMorale1 = new System.Windows.Forms.NumericUpDown();
             this.numericUpDownFirstWit1 = new System.Windows.Forms.NumericUpDown();
-            this.checkBox12 = new System.Windows.Forms.CheckBox();
-            this.firstDiff1 = new System.Windows.Forms.ComboBox();
+            this.FightCheck1 = new System.Windows.Forms.CheckBox();
+            this.FightDif1 = new System.Windows.Forms.ComboBox();
             this.label4 = new System.Windows.Forms.Label();
             this.numericUpDownSecondCrew1 = new System.Windows.Forms.NumericUpDown();
             this.numericUpDownSecondEvil1 = new System.Windows.Forms.NumericUpDown();
@@ -77,42 +97,62 @@
             this.numericUpDownSecondMorale1 = new System.Windows.Forms.NumericUpDown();
             this.numericUpDownSecondWit1 = new System.Windows.Forms.NumericUpDown();
             this.groupBox4 = new System.Windows.Forms.GroupBox();
+            this.label40 = new System.Windows.Forms.Label();
+            this.label41 = new System.Windows.Forms.Label();
+            this.label42 = new System.Windows.Forms.Label();
+            this.label43 = new System.Windows.Forms.Label();
+            this.label44 = new System.Windows.Forms.Label();
+            this.label45 = new System.Windows.Forms.Label();
+            this.label46 = new System.Windows.Forms.Label();
+            this.label47 = new System.Windows.Forms.Label();
+            this.label48 = new System.Windows.Forms.Label();
+            this.label49 = new System.Windows.Forms.Label();
             this.SecondResultText1 = new System.Windows.Forms.TextBox();
-            this.label8 = new System.Windows.Forms.Label();
-            this.label9 = new System.Windows.Forms.Label();
-            this.label10 = new System.Windows.Forms.Label();
-            this.label11 = new System.Windows.Forms.Label();
-            this.label12 = new System.Windows.Forms.Label();
-            this.label13 = new System.Windows.Forms.Label();
-            this.label14 = new System.Windows.Forms.Label();
-            this.label15 = new System.Windows.Forms.Label();
-            this.label16 = new System.Windows.Forms.Label();
-            this.label17 = new System.Windows.Forms.Label();
             this.groupBox5 = new System.Windows.Forms.GroupBox();
             this.groupBox6 = new System.Windows.Forms.GroupBox();
+            this.label60 = new System.Windows.Forms.Label();
             this.numericUpDownSecondCrew2 = new System.Windows.Forms.NumericUpDown();
+            this.label61 = new System.Windows.Forms.Label();
             this.numericUpDownSecondEvil2 = new System.Windows.Forms.NumericUpDown();
+            this.label62 = new System.Windows.Forms.Label();
             this.numericUpDownSecondGold2 = new System.Windows.Forms.NumericUpDown();
+            this.label63 = new System.Windows.Forms.Label();
             this.numericUpDownSecondGunpowder2 = new System.Windows.Forms.NumericUpDown();
+            this.label64 = new System.Windows.Forms.Label();
             this.numericUpDownSecondAle2 = new System.Windows.Forms.NumericUpDown();
+            this.label65 = new System.Windows.Forms.Label();
             this.numericUpDownSecondIntegrity2 = new System.Windows.Forms.NumericUpDown();
+            this.label66 = new System.Windows.Forms.Label();
             this.numericUpDownSecondCharisma2 = new System.Windows.Forms.NumericUpDown();
+            this.label67 = new System.Windows.Forms.Label();
+            this.label68 = new System.Windows.Forms.Label();
             this.numericUpDownSecondNotoriety2 = new System.Windows.Forms.NumericUpDown();
+            this.label69 = new System.Windows.Forms.Label();
             this.numericUpDownSecondMorale2 = new System.Windows.Forms.NumericUpDown();
             this.numericUpDownSecondWit2 = new System.Windows.Forms.NumericUpDown();
             this.SecondResultText2 = new System.Windows.Forms.TextBox();
             this.label2 = new System.Windows.Forms.Label();
-            this.comboBox1 = new System.Windows.Forms.ComboBox();
-            this.checkBox11 = new System.Windows.Forms.CheckBox();
+            this.FightDif2 = new System.Windows.Forms.ComboBox();
+            this.FightCheck2 = new System.Windows.Forms.CheckBox();
             this.groupBox7 = new System.Windows.Forms.GroupBox();
+            this.label50 = new System.Windows.Forms.Label();
+            this.label51 = new System.Windows.Forms.Label();
             this.numericUpDownFirstCrew2 = new System.Windows.Forms.NumericUpDown();
+            this.label52 = new System.Windows.Forms.Label();
             this.numericUpDownFirstEvil2 = new System.Windows.Forms.NumericUpDown();
+            this.label53 = new System.Windows.Forms.Label();
             this.numericUpDownFirstGold2 = new System.Windows.Forms.NumericUpDown();
+            this.label54 = new System.Windows.Forms.Label();
             this.numericUpDownFirstGunpowder2 = new System.Windows.Forms.NumericUpDown();
+            this.label55 = new System.Windows.Forms.Label();
             this.numericUpDownFirstAle2 = new System.Windows.Forms.NumericUpDown();
+            this.label56 = new System.Windows.Forms.Label();
             this.numericUpDownFirstIntegrity2 = new System.Windows.Forms.NumericUpDown();
+            this.label57 = new System.Windows.Forms.Label();
             this.numericUpDownFirstCharisma2 = new System.Windows.Forms.NumericUpDown();
+            this.label58 = new System.Windows.Forms.Label();
             this.numericUpDownFirstNotoriety2 = new System.Windows.Forms.NumericUpDown();
+            this.label59 = new System.Windows.Forms.Label();
             this.numericUpDownFirstMorale2 = new System.Windows.Forms.NumericUpDown();
             this.numericUpDownFirstWit2 = new System.Windows.Forms.NumericUpDown();
             this.groupBox8 = new System.Windows.Forms.GroupBox();
@@ -140,46 +180,6 @@
             this.numericUpDownOddsWit2 = new System.Windows.Forms.NumericUpDown();
             this.label29 = new System.Windows.Forms.Label();
             this.FirstResultText2 = new System.Windows.Forms.TextBox();
-            this.label30 = new System.Windows.Forms.Label();
-            this.label31 = new System.Windows.Forms.Label();
-            this.label32 = new System.Windows.Forms.Label();
-            this.label33 = new System.Windows.Forms.Label();
-            this.label34 = new System.Windows.Forms.Label();
-            this.label35 = new System.Windows.Forms.Label();
-            this.label36 = new System.Windows.Forms.Label();
-            this.label37 = new System.Windows.Forms.Label();
-            this.label38 = new System.Windows.Forms.Label();
-            this.label39 = new System.Windows.Forms.Label();
-            this.label40 = new System.Windows.Forms.Label();
-            this.label41 = new System.Windows.Forms.Label();
-            this.label42 = new System.Windows.Forms.Label();
-            this.label43 = new System.Windows.Forms.Label();
-            this.label44 = new System.Windows.Forms.Label();
-            this.label45 = new System.Windows.Forms.Label();
-            this.label46 = new System.Windows.Forms.Label();
-            this.label47 = new System.Windows.Forms.Label();
-            this.label48 = new System.Windows.Forms.Label();
-            this.label49 = new System.Windows.Forms.Label();
-            this.label50 = new System.Windows.Forms.Label();
-            this.label51 = new System.Windows.Forms.Label();
-            this.label52 = new System.Windows.Forms.Label();
-            this.label53 = new System.Windows.Forms.Label();
-            this.label54 = new System.Windows.Forms.Label();
-            this.label55 = new System.Windows.Forms.Label();
-            this.label56 = new System.Windows.Forms.Label();
-            this.label57 = new System.Windows.Forms.Label();
-            this.label58 = new System.Windows.Forms.Label();
-            this.label59 = new System.Windows.Forms.Label();
-            this.label60 = new System.Windows.Forms.Label();
-            this.label61 = new System.Windows.Forms.Label();
-            this.label62 = new System.Windows.Forms.Label();
-            this.label63 = new System.Windows.Forms.Label();
-            this.label64 = new System.Windows.Forms.Label();
-            this.label65 = new System.Windows.Forms.Label();
-            this.label66 = new System.Windows.Forms.Label();
-            this.label67 = new System.Windows.Forms.Label();
-            this.label68 = new System.Windows.Forms.Label();
-            this.label69 = new System.Windows.Forms.Label();
             this.label70 = new System.Windows.Forms.Label();
             this.optionText2 = new System.Windows.Forms.TextBox();
             ((System.ComponentModel.ISupportInitialize)(this.firstOdds1)).BeginInit();
@@ -367,221 +367,172 @@
             // 
             this.numericUpDownOddsWit1.Location = new System.Drawing.Point(36, 122);
             this.numericUpDownOddsWit1.Maximum = new decimal(new int[] {
-            5,
+            20,
             0,
             0,
             0});
             this.numericUpDownOddsWit1.Minimum = new decimal(new int[] {
-            1,
+            20,
             0,
             0,
-            0});
+            -2147483648});
             this.numericUpDownOddsWit1.Name = "numericUpDownOddsWit1";
-            this.numericUpDownOddsWit1.Size = new System.Drawing.Size(36, 22);
+            this.numericUpDownOddsWit1.Size = new System.Drawing.Size(46, 22);
             this.numericUpDownOddsWit1.TabIndex = 95;
-            this.numericUpDownOddsWit1.Value = new decimal(new int[] {
-            1,
-            0,
-            0,
-            0});
+            this.numericUpDownOddsWit1.ValueChanged += new System.EventHandler(this.numericUpDownOddsWit1_ValueChanged);
             // 
             // numericUpDownOddsMorale1
             // 
             this.numericUpDownOddsMorale1.Location = new System.Drawing.Point(36, 147);
             this.numericUpDownOddsMorale1.Maximum = new decimal(new int[] {
-            5,
+            20,
             0,
             0,
             0});
             this.numericUpDownOddsMorale1.Minimum = new decimal(new int[] {
-            1,
+            20,
             0,
             0,
-            0});
+            -2147483648});
             this.numericUpDownOddsMorale1.Name = "numericUpDownOddsMorale1";
-            this.numericUpDownOddsMorale1.Size = new System.Drawing.Size(36, 22);
+            this.numericUpDownOddsMorale1.Size = new System.Drawing.Size(46, 22);
             this.numericUpDownOddsMorale1.TabIndex = 96;
-            this.numericUpDownOddsMorale1.Value = new decimal(new int[] {
-            1,
-            0,
-            0,
-            0});
             // 
             // numericUpDownOddsNotoriety1
             // 
             this.numericUpDownOddsNotoriety1.Location = new System.Drawing.Point(36, 173);
             this.numericUpDownOddsNotoriety1.Maximum = new decimal(new int[] {
-            5,
+            20,
             0,
             0,
             0});
             this.numericUpDownOddsNotoriety1.Minimum = new decimal(new int[] {
-            1,
+            20,
             0,
             0,
-            0});
+            -2147483648});
             this.numericUpDownOddsNotoriety1.Name = "numericUpDownOddsNotoriety1";
-            this.numericUpDownOddsNotoriety1.Size = new System.Drawing.Size(36, 22);
+            this.numericUpDownOddsNotoriety1.Size = new System.Drawing.Size(46, 22);
             this.numericUpDownOddsNotoriety1.TabIndex = 97;
-            this.numericUpDownOddsNotoriety1.Value = new decimal(new int[] {
-            1,
-            0,
-            0,
-            0});
             // 
             // numericUpDownOddsCrew1
             // 
             this.numericUpDownOddsCrew1.Location = new System.Drawing.Point(36, 274);
             this.numericUpDownOddsCrew1.Maximum = new decimal(new int[] {
-            5,
+            20,
             0,
             0,
             0});
             this.numericUpDownOddsCrew1.Minimum = new decimal(new int[] {
-            1,
+            20,
             0,
             0,
-            0});
+            -2147483648});
             this.numericUpDownOddsCrew1.Name = "numericUpDownOddsCrew1";
-            this.numericUpDownOddsCrew1.Size = new System.Drawing.Size(36, 22);
+            this.numericUpDownOddsCrew1.Size = new System.Drawing.Size(46, 22);
             this.numericUpDownOddsCrew1.TabIndex = 100;
-            this.numericUpDownOddsCrew1.Value = new decimal(new int[] {
-            1,
-            0,
-            0,
-            0});
             // 
             // numericUpDownOddsEvil1
             // 
             this.numericUpDownOddsEvil1.Location = new System.Drawing.Point(36, 230);
             this.numericUpDownOddsEvil1.Maximum = new decimal(new int[] {
-            5,
+            20,
             0,
             0,
             0});
             this.numericUpDownOddsEvil1.Minimum = new decimal(new int[] {
-            1,
+            20,
             0,
             0,
-            0});
+            -2147483648});
             this.numericUpDownOddsEvil1.Name = "numericUpDownOddsEvil1";
-            this.numericUpDownOddsEvil1.Size = new System.Drawing.Size(36, 22);
+            this.numericUpDownOddsEvil1.Size = new System.Drawing.Size(46, 22);
             this.numericUpDownOddsEvil1.TabIndex = 99;
-            this.numericUpDownOddsEvil1.Value = new decimal(new int[] {
-            1,
-            0,
-            0,
-            0});
             // 
             // numericUpDownOddsCharisma1
             // 
             this.numericUpDownOddsCharisma1.Location = new System.Drawing.Point(36, 205);
             this.numericUpDownOddsCharisma1.Maximum = new decimal(new int[] {
-            5,
+            20,
             0,
             0,
             0});
             this.numericUpDownOddsCharisma1.Minimum = new decimal(new int[] {
-            1,
+            20,
             0,
             0,
-            0});
+            -2147483648});
             this.numericUpDownOddsCharisma1.Name = "numericUpDownOddsCharisma1";
-            this.numericUpDownOddsCharisma1.Size = new System.Drawing.Size(36, 22);
+            this.numericUpDownOddsCharisma1.Size = new System.Drawing.Size(46, 22);
             this.numericUpDownOddsCharisma1.TabIndex = 98;
-            this.numericUpDownOddsCharisma1.Value = new decimal(new int[] {
-            1,
-            0,
-            0,
-            0});
             // 
             // numericUpDownOddsGold1
             // 
             this.numericUpDownOddsGold1.Location = new System.Drawing.Point(36, 390);
             this.numericUpDownOddsGold1.Maximum = new decimal(new int[] {
-            5,
+            20,
             0,
             0,
             0});
             this.numericUpDownOddsGold1.Minimum = new decimal(new int[] {
-            1,
+            20,
             0,
             0,
-            0});
+            -2147483648});
             this.numericUpDownOddsGold1.Name = "numericUpDownOddsGold1";
-            this.numericUpDownOddsGold1.Size = new System.Drawing.Size(36, 22);
+            this.numericUpDownOddsGold1.Size = new System.Drawing.Size(46, 22);
             this.numericUpDownOddsGold1.TabIndex = 103;
-            this.numericUpDownOddsGold1.Value = new decimal(new int[] {
-            1,
-            0,
-            0,
-            0});
             // 
             // numericUpDownOddsGunpowder1
             // 
             this.numericUpDownOddsGunpowder1.Location = new System.Drawing.Point(36, 364);
             this.numericUpDownOddsGunpowder1.Maximum = new decimal(new int[] {
-            5,
+            20,
             0,
             0,
             0});
             this.numericUpDownOddsGunpowder1.Minimum = new decimal(new int[] {
-            1,
+            20,
             0,
             0,
-            0});
+            -2147483648});
             this.numericUpDownOddsGunpowder1.Name = "numericUpDownOddsGunpowder1";
-            this.numericUpDownOddsGunpowder1.Size = new System.Drawing.Size(36, 22);
+            this.numericUpDownOddsGunpowder1.Size = new System.Drawing.Size(46, 22);
             this.numericUpDownOddsGunpowder1.TabIndex = 102;
-            this.numericUpDownOddsGunpowder1.Value = new decimal(new int[] {
-            1,
-            0,
-            0,
-            0});
             // 
             // numericUpDownOddsAle1
             // 
             this.numericUpDownOddsAle1.Location = new System.Drawing.Point(36, 339);
             this.numericUpDownOddsAle1.Maximum = new decimal(new int[] {
-            5,
+            20,
             0,
             0,
             0});
             this.numericUpDownOddsAle1.Minimum = new decimal(new int[] {
-            1,
+            20,
             0,
             0,
-            0});
+            -2147483648});
             this.numericUpDownOddsAle1.Name = "numericUpDownOddsAle1";
-            this.numericUpDownOddsAle1.Size = new System.Drawing.Size(36, 22);
+            this.numericUpDownOddsAle1.Size = new System.Drawing.Size(46, 22);
             this.numericUpDownOddsAle1.TabIndex = 101;
-            this.numericUpDownOddsAle1.Value = new decimal(new int[] {
-            1,
-            0,
-            0,
-            0});
             // 
             // numericUpDownOddsIntegrity1
             // 
             this.numericUpDownOddsIntegrity1.Location = new System.Drawing.Point(36, 301);
             this.numericUpDownOddsIntegrity1.Maximum = new decimal(new int[] {
-            5,
+            20,
             0,
             0,
             0});
             this.numericUpDownOddsIntegrity1.Minimum = new decimal(new int[] {
-            1,
+            20,
             0,
             0,
-            0});
+            -2147483648});
             this.numericUpDownOddsIntegrity1.Name = "numericUpDownOddsIntegrity1";
-            this.numericUpDownOddsIntegrity1.Size = new System.Drawing.Size(36, 22);
+            this.numericUpDownOddsIntegrity1.Size = new System.Drawing.Size(46, 22);
             this.numericUpDownOddsIntegrity1.TabIndex = 104;
-            this.numericUpDownOddsIntegrity1.Value = new decimal(new int[] {
-            1,
-            0,
-            0,
-            0});
             // 
             // groupBox2
             // 
@@ -613,6 +564,97 @@
             this.groupBox2.TabIndex = 105;
             this.groupBox2.TabStop = false;
             this.groupBox2.Text = "Odds of Success";
+            this.groupBox2.Enter += new System.EventHandler(this.groupBox2_Enter);
+            // 
+            // label17
+            // 
+            this.label17.AutoSize = true;
+            this.label17.Location = new System.Drawing.Point(96, 395);
+            this.label17.Name = "label17";
+            this.label17.Size = new System.Drawing.Size(77, 17);
+            this.label17.TabIndex = 115;
+            this.label17.Text = "Gold Coins";
+            // 
+            // label16
+            // 
+            this.label16.AutoSize = true;
+            this.label16.Location = new System.Drawing.Point(96, 369);
+            this.label16.Name = "label16";
+            this.label16.Size = new System.Drawing.Size(81, 17);
+            this.label16.TabIndex = 114;
+            this.label16.Text = "Gunpowder";
+            // 
+            // label15
+            // 
+            this.label15.AutoSize = true;
+            this.label15.Location = new System.Drawing.Point(96, 342);
+            this.label15.Name = "label15";
+            this.label15.Size = new System.Drawing.Size(28, 17);
+            this.label15.TabIndex = 113;
+            this.label15.Text = "Ale";
+            // 
+            // label14
+            // 
+            this.label14.AutoSize = true;
+            this.label14.Location = new System.Drawing.Point(98, 301);
+            this.label14.Name = "label14";
+            this.label14.Size = new System.Drawing.Size(88, 17);
+            this.label14.TabIndex = 112;
+            this.label14.Text = "Integrity (hp)";
+            // 
+            // label13
+            // 
+            this.label13.AutoSize = true;
+            this.label13.Location = new System.Drawing.Point(96, 274);
+            this.label13.Name = "label13";
+            this.label13.Size = new System.Drawing.Size(101, 17);
+            this.label13.TabIndex = 111;
+            this.label13.Text = "Crew Members";
+            // 
+            // label12
+            // 
+            this.label12.AutoSize = true;
+            this.label12.Location = new System.Drawing.Point(96, 181);
+            this.label12.Name = "label12";
+            this.label12.Size = new System.Drawing.Size(65, 17);
+            this.label12.TabIndex = 110;
+            this.label12.Text = "Notoriety";
+            // 
+            // label11
+            // 
+            this.label11.AutoSize = true;
+            this.label11.Location = new System.Drawing.Point(97, 230);
+            this.label11.Name = "label11";
+            this.label11.Size = new System.Drawing.Size(30, 17);
+            this.label11.TabIndex = 109;
+            this.label11.Text = "Evil";
+            // 
+            // label10
+            // 
+            this.label10.AutoSize = true;
+            this.label10.Location = new System.Drawing.Point(100, 149);
+            this.label10.Name = "label10";
+            this.label10.Size = new System.Drawing.Size(51, 17);
+            this.label10.TabIndex = 108;
+            this.label10.Text = "Morale";
+            // 
+            // label9
+            // 
+            this.label9.AutoSize = true;
+            this.label9.Location = new System.Drawing.Point(96, 204);
+            this.label9.Name = "label9";
+            this.label9.Size = new System.Drawing.Size(67, 17);
+            this.label9.TabIndex = 107;
+            this.label9.Text = "Charisma";
+            // 
+            // label8
+            // 
+            this.label8.AutoSize = true;
+            this.label8.Location = new System.Drawing.Point(98, 122);
+            this.label8.Name = "label8";
+            this.label8.Size = new System.Drawing.Size(28, 17);
+            this.label8.TabIndex = 106;
+            this.label8.Text = "Wit";
             // 
             // label3
             // 
@@ -652,6 +694,15 @@
             this.groupBox3.TabStop = false;
             this.groupBox3.Text = "Rewards / Losses";
             // 
+            // label30
+            // 
+            this.label30.AutoSize = true;
+            this.label30.Location = new System.Drawing.Point(90, 316);
+            this.label30.Name = "label30";
+            this.label30.Size = new System.Drawing.Size(77, 17);
+            this.label30.TabIndex = 125;
+            this.label30.Text = "Gold Coins";
+            // 
             // numericUpDownFirstCrew1
             // 
             this.numericUpDownFirstCrew1.Location = new System.Drawing.Point(30, 190);
@@ -668,6 +719,15 @@
             this.numericUpDownFirstCrew1.Name = "numericUpDownFirstCrew1";
             this.numericUpDownFirstCrew1.Size = new System.Drawing.Size(45, 22);
             this.numericUpDownFirstCrew1.TabIndex = 116;
+            // 
+            // label31
+            // 
+            this.label31.AutoSize = true;
+            this.label31.Location = new System.Drawing.Point(90, 290);
+            this.label31.Name = "label31";
+            this.label31.Size = new System.Drawing.Size(81, 17);
+            this.label31.TabIndex = 124;
+            this.label31.Text = "Gunpowder";
             // 
             // numericUpDownFirstEvil1
             // 
@@ -686,6 +746,15 @@
             this.numericUpDownFirstEvil1.Size = new System.Drawing.Size(45, 22);
             this.numericUpDownFirstEvil1.TabIndex = 115;
             // 
+            // label32
+            // 
+            this.label32.AutoSize = true;
+            this.label32.Location = new System.Drawing.Point(90, 263);
+            this.label32.Name = "label32";
+            this.label32.Size = new System.Drawing.Size(28, 17);
+            this.label32.TabIndex = 123;
+            this.label32.Text = "Ale";
+            // 
             // numericUpDownFirstGold1
             // 
             this.numericUpDownFirstGold1.Location = new System.Drawing.Point(30, 308);
@@ -702,6 +771,15 @@
             this.numericUpDownFirstGold1.Name = "numericUpDownFirstGold1";
             this.numericUpDownFirstGold1.Size = new System.Drawing.Size(45, 22);
             this.numericUpDownFirstGold1.TabIndex = 114;
+            // 
+            // label33
+            // 
+            this.label33.AutoSize = true;
+            this.label33.Location = new System.Drawing.Point(92, 222);
+            this.label33.Name = "label33";
+            this.label33.Size = new System.Drawing.Size(88, 17);
+            this.label33.TabIndex = 122;
+            this.label33.Text = "Integrity (hp)";
             // 
             // numericUpDownFirstGunpowder1
             // 
@@ -720,6 +798,24 @@
             this.numericUpDownFirstGunpowder1.Size = new System.Drawing.Size(45, 22);
             this.numericUpDownFirstGunpowder1.TabIndex = 113;
             // 
+            // label34
+            // 
+            this.label34.AutoSize = true;
+            this.label34.Location = new System.Drawing.Point(90, 195);
+            this.label34.Name = "label34";
+            this.label34.Size = new System.Drawing.Size(101, 17);
+            this.label34.TabIndex = 121;
+            this.label34.Text = "Crew Members";
+            // 
+            // label35
+            // 
+            this.label35.AutoSize = true;
+            this.label35.Location = new System.Drawing.Point(90, 102);
+            this.label35.Name = "label35";
+            this.label35.Size = new System.Drawing.Size(65, 17);
+            this.label35.TabIndex = 120;
+            this.label35.Text = "Notoriety";
+            // 
             // numericUpDownFirstAle1
             // 
             this.numericUpDownFirstAle1.Location = new System.Drawing.Point(30, 252);
@@ -736,6 +832,15 @@
             this.numericUpDownFirstAle1.Name = "numericUpDownFirstAle1";
             this.numericUpDownFirstAle1.Size = new System.Drawing.Size(45, 22);
             this.numericUpDownFirstAle1.TabIndex = 112;
+            // 
+            // label36
+            // 
+            this.label36.AutoSize = true;
+            this.label36.Location = new System.Drawing.Point(91, 151);
+            this.label36.Name = "label36";
+            this.label36.Size = new System.Drawing.Size(30, 17);
+            this.label36.TabIndex = 119;
+            this.label36.Text = "Evil";
             // 
             // numericUpDownFirstIntegrity1
             // 
@@ -754,6 +859,15 @@
             this.numericUpDownFirstIntegrity1.Size = new System.Drawing.Size(45, 22);
             this.numericUpDownFirstIntegrity1.TabIndex = 111;
             // 
+            // label37
+            // 
+            this.label37.AutoSize = true;
+            this.label37.Location = new System.Drawing.Point(94, 70);
+            this.label37.Name = "label37";
+            this.label37.Size = new System.Drawing.Size(51, 17);
+            this.label37.TabIndex = 118;
+            this.label37.Text = "Morale";
+            // 
             // numericUpDownFirstCharisma1
             // 
             this.numericUpDownFirstCharisma1.Location = new System.Drawing.Point(30, 121);
@@ -771,6 +885,15 @@
             this.numericUpDownFirstCharisma1.Size = new System.Drawing.Size(45, 22);
             this.numericUpDownFirstCharisma1.TabIndex = 110;
             // 
+            // label38
+            // 
+            this.label38.AutoSize = true;
+            this.label38.Location = new System.Drawing.Point(90, 125);
+            this.label38.Name = "label38";
+            this.label38.Size = new System.Drawing.Size(67, 17);
+            this.label38.TabIndex = 117;
+            this.label38.Text = "Charisma";
+            // 
             // numericUpDownFirstNotoriety1
             // 
             this.numericUpDownFirstNotoriety1.Location = new System.Drawing.Point(30, 93);
@@ -787,6 +910,15 @@
             this.numericUpDownFirstNotoriety1.Name = "numericUpDownFirstNotoriety1";
             this.numericUpDownFirstNotoriety1.Size = new System.Drawing.Size(45, 22);
             this.numericUpDownFirstNotoriety1.TabIndex = 109;
+            // 
+            // label39
+            // 
+            this.label39.AutoSize = true;
+            this.label39.Location = new System.Drawing.Point(92, 43);
+            this.label39.Name = "label39";
+            this.label39.Size = new System.Drawing.Size(28, 17);
+            this.label39.TabIndex = 116;
+            this.label39.Text = "Wit";
             // 
             // numericUpDownFirstMorale1
             // 
@@ -822,24 +954,28 @@
             this.numericUpDownFirstWit1.Size = new System.Drawing.Size(45, 22);
             this.numericUpDownFirstWit1.TabIndex = 107;
             // 
-            // checkBox12
+            // FightCheck1
             // 
-            this.checkBox12.AutoSize = true;
-            this.checkBox12.Location = new System.Drawing.Point(827, 242);
-            this.checkBox12.Name = "checkBox12";
-            this.checkBox12.Size = new System.Drawing.Size(121, 21);
-            this.checkBox12.TabIndex = 107;
-            this.checkBox12.Text = "Engages Fight";
-            this.checkBox12.UseVisualStyleBackColor = true;
+            this.FightCheck1.AutoSize = true;
+            this.FightCheck1.Location = new System.Drawing.Point(827, 242);
+            this.FightCheck1.Name = "FightCheck1";
+            this.FightCheck1.Size = new System.Drawing.Size(121, 21);
+            this.FightCheck1.TabIndex = 107;
+            this.FightCheck1.Text = "Engages Fight";
+            this.FightCheck1.UseVisualStyleBackColor = true;
+            this.FightCheck1.CheckedChanged += new System.EventHandler(this.checkBox12_CheckedChanged);
             // 
-            // firstDiff1
+            // FightDif1
             // 
-            this.firstDiff1.FormattingEnabled = true;
-            this.firstDiff1.Location = new System.Drawing.Point(827, 273);
-            this.firstDiff1.Name = "firstDiff1";
-            this.firstDiff1.Size = new System.Drawing.Size(121, 24);
-            this.firstDiff1.TabIndex = 109;
-            this.firstDiff1.SelectedIndexChanged += new System.EventHandler(this.comboBox1_SelectedIndexChanged);
+            this.FightDif1.AllowDrop = true;
+            this.FightDif1.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
+            this.FightDif1.FlatStyle = System.Windows.Forms.FlatStyle.System;
+            this.FightDif1.FormattingEnabled = true;
+            this.FightDif1.Location = new System.Drawing.Point(827, 273);
+            this.FightDif1.Name = "FightDif1";
+            this.FightDif1.Size = new System.Drawing.Size(121, 24);
+            this.FightDif1.TabIndex = 109;
+            this.FightDif1.SelectedIndexChanged += new System.EventHandler(this.comboBox1_SelectedIndexChanged);
             // 
             // label4
             // 
@@ -1049,6 +1185,96 @@
             this.groupBox4.TabStop = false;
             this.groupBox4.Text = "Rewards / Losses";
             // 
+            // label40
+            // 
+            this.label40.AutoSize = true;
+            this.label40.Location = new System.Drawing.Point(81, 314);
+            this.label40.Name = "label40";
+            this.label40.Size = new System.Drawing.Size(77, 17);
+            this.label40.TabIndex = 135;
+            this.label40.Text = "Gold Coins";
+            // 
+            // label41
+            // 
+            this.label41.AutoSize = true;
+            this.label41.Location = new System.Drawing.Point(81, 288);
+            this.label41.Name = "label41";
+            this.label41.Size = new System.Drawing.Size(81, 17);
+            this.label41.TabIndex = 134;
+            this.label41.Text = "Gunpowder";
+            // 
+            // label42
+            // 
+            this.label42.AutoSize = true;
+            this.label42.Location = new System.Drawing.Point(81, 261);
+            this.label42.Name = "label42";
+            this.label42.Size = new System.Drawing.Size(28, 17);
+            this.label42.TabIndex = 133;
+            this.label42.Text = "Ale";
+            // 
+            // label43
+            // 
+            this.label43.AutoSize = true;
+            this.label43.Location = new System.Drawing.Point(83, 220);
+            this.label43.Name = "label43";
+            this.label43.Size = new System.Drawing.Size(88, 17);
+            this.label43.TabIndex = 132;
+            this.label43.Text = "Integrity (hp)";
+            // 
+            // label44
+            // 
+            this.label44.AutoSize = true;
+            this.label44.Location = new System.Drawing.Point(81, 193);
+            this.label44.Name = "label44";
+            this.label44.Size = new System.Drawing.Size(101, 17);
+            this.label44.TabIndex = 131;
+            this.label44.Text = "Crew Members";
+            // 
+            // label45
+            // 
+            this.label45.AutoSize = true;
+            this.label45.Location = new System.Drawing.Point(81, 100);
+            this.label45.Name = "label45";
+            this.label45.Size = new System.Drawing.Size(65, 17);
+            this.label45.TabIndex = 130;
+            this.label45.Text = "Notoriety";
+            // 
+            // label46
+            // 
+            this.label46.AutoSize = true;
+            this.label46.Location = new System.Drawing.Point(82, 149);
+            this.label46.Name = "label46";
+            this.label46.Size = new System.Drawing.Size(30, 17);
+            this.label46.TabIndex = 129;
+            this.label46.Text = "Evil";
+            // 
+            // label47
+            // 
+            this.label47.AutoSize = true;
+            this.label47.Location = new System.Drawing.Point(85, 68);
+            this.label47.Name = "label47";
+            this.label47.Size = new System.Drawing.Size(51, 17);
+            this.label47.TabIndex = 128;
+            this.label47.Text = "Morale";
+            // 
+            // label48
+            // 
+            this.label48.AutoSize = true;
+            this.label48.Location = new System.Drawing.Point(81, 123);
+            this.label48.Name = "label48";
+            this.label48.Size = new System.Drawing.Size(67, 17);
+            this.label48.TabIndex = 127;
+            this.label48.Text = "Charisma";
+            // 
+            // label49
+            // 
+            this.label49.AutoSize = true;
+            this.label49.Location = new System.Drawing.Point(83, 41);
+            this.label49.Name = "label49";
+            this.label49.Size = new System.Drawing.Size(28, 17);
+            this.label49.TabIndex = 126;
+            this.label49.Text = "Wit";
+            // 
             // SecondResultText1
             // 
             this.SecondResultText1.Location = new System.Drawing.Point(1271, 41);
@@ -1057,96 +1283,6 @@
             this.SecondResultText1.Size = new System.Drawing.Size(389, 102);
             this.SecondResultText1.TabIndex = 113;
             this.SecondResultText1.Text = "You failed! You lost some gold and integrity! :(";
-            // 
-            // label8
-            // 
-            this.label8.AutoSize = true;
-            this.label8.Location = new System.Drawing.Point(98, 122);
-            this.label8.Name = "label8";
-            this.label8.Size = new System.Drawing.Size(28, 17);
-            this.label8.TabIndex = 106;
-            this.label8.Text = "Wit";
-            // 
-            // label9
-            // 
-            this.label9.AutoSize = true;
-            this.label9.Location = new System.Drawing.Point(96, 204);
-            this.label9.Name = "label9";
-            this.label9.Size = new System.Drawing.Size(67, 17);
-            this.label9.TabIndex = 107;
-            this.label9.Text = "Charisma";
-            // 
-            // label10
-            // 
-            this.label10.AutoSize = true;
-            this.label10.Location = new System.Drawing.Point(100, 149);
-            this.label10.Name = "label10";
-            this.label10.Size = new System.Drawing.Size(51, 17);
-            this.label10.TabIndex = 108;
-            this.label10.Text = "Morale";
-            // 
-            // label11
-            // 
-            this.label11.AutoSize = true;
-            this.label11.Location = new System.Drawing.Point(97, 230);
-            this.label11.Name = "label11";
-            this.label11.Size = new System.Drawing.Size(30, 17);
-            this.label11.TabIndex = 109;
-            this.label11.Text = "Evil";
-            // 
-            // label12
-            // 
-            this.label12.AutoSize = true;
-            this.label12.Location = new System.Drawing.Point(96, 181);
-            this.label12.Name = "label12";
-            this.label12.Size = new System.Drawing.Size(65, 17);
-            this.label12.TabIndex = 110;
-            this.label12.Text = "Notoriety";
-            // 
-            // label13
-            // 
-            this.label13.AutoSize = true;
-            this.label13.Location = new System.Drawing.Point(96, 274);
-            this.label13.Name = "label13";
-            this.label13.Size = new System.Drawing.Size(101, 17);
-            this.label13.TabIndex = 111;
-            this.label13.Text = "Crew Members";
-            // 
-            // label14
-            // 
-            this.label14.AutoSize = true;
-            this.label14.Location = new System.Drawing.Point(98, 301);
-            this.label14.Name = "label14";
-            this.label14.Size = new System.Drawing.Size(88, 17);
-            this.label14.TabIndex = 112;
-            this.label14.Text = "Integrity (hp)";
-            // 
-            // label15
-            // 
-            this.label15.AutoSize = true;
-            this.label15.Location = new System.Drawing.Point(96, 342);
-            this.label15.Name = "label15";
-            this.label15.Size = new System.Drawing.Size(28, 17);
-            this.label15.TabIndex = 113;
-            this.label15.Text = "Ale";
-            // 
-            // label16
-            // 
-            this.label16.AutoSize = true;
-            this.label16.Location = new System.Drawing.Point(96, 369);
-            this.label16.Name = "label16";
-            this.label16.Size = new System.Drawing.Size(81, 17);
-            this.label16.TabIndex = 114;
-            this.label16.Text = "Gunpowder";
-            // 
-            // label17
-            // 
-            this.label17.AutoSize = true;
-            this.label17.Location = new System.Drawing.Point(96, 395);
-            this.label17.Name = "label17";
-            this.label17.Size = new System.Drawing.Size(77, 17);
-            this.label17.TabIndex = 115;
-            this.label17.Text = "Gold Coins";
             // 
             // groupBox5
             // 
@@ -1185,6 +1321,15 @@
             this.groupBox6.TabStop = false;
             this.groupBox6.Text = "Rewards / Losses";
             // 
+            // label60
+            // 
+            this.label60.AutoSize = true;
+            this.label60.Location = new System.Drawing.Point(91, 314);
+            this.label60.Name = "label60";
+            this.label60.Size = new System.Drawing.Size(77, 17);
+            this.label60.TabIndex = 155;
+            this.label60.Text = "Gold Coins";
+            // 
             // numericUpDownSecondCrew2
             // 
             this.numericUpDownSecondCrew2.Location = new System.Drawing.Point(30, 190);
@@ -1201,6 +1346,15 @@
             this.numericUpDownSecondCrew2.Name = "numericUpDownSecondCrew2";
             this.numericUpDownSecondCrew2.Size = new System.Drawing.Size(45, 22);
             this.numericUpDownSecondCrew2.TabIndex = 116;
+            // 
+            // label61
+            // 
+            this.label61.AutoSize = true;
+            this.label61.Location = new System.Drawing.Point(91, 288);
+            this.label61.Name = "label61";
+            this.label61.Size = new System.Drawing.Size(81, 17);
+            this.label61.TabIndex = 154;
+            this.label61.Text = "Gunpowder";
             // 
             // numericUpDownSecondEvil2
             // 
@@ -1219,6 +1373,15 @@
             this.numericUpDownSecondEvil2.Size = new System.Drawing.Size(45, 22);
             this.numericUpDownSecondEvil2.TabIndex = 115;
             // 
+            // label62
+            // 
+            this.label62.AutoSize = true;
+            this.label62.Location = new System.Drawing.Point(91, 261);
+            this.label62.Name = "label62";
+            this.label62.Size = new System.Drawing.Size(28, 17);
+            this.label62.TabIndex = 153;
+            this.label62.Text = "Ale";
+            // 
             // numericUpDownSecondGold2
             // 
             this.numericUpDownSecondGold2.Location = new System.Drawing.Point(30, 308);
@@ -1235,6 +1398,15 @@
             this.numericUpDownSecondGold2.Name = "numericUpDownSecondGold2";
             this.numericUpDownSecondGold2.Size = new System.Drawing.Size(45, 22);
             this.numericUpDownSecondGold2.TabIndex = 114;
+            // 
+            // label63
+            // 
+            this.label63.AutoSize = true;
+            this.label63.Location = new System.Drawing.Point(93, 220);
+            this.label63.Name = "label63";
+            this.label63.Size = new System.Drawing.Size(88, 17);
+            this.label63.TabIndex = 152;
+            this.label63.Text = "Integrity (hp)";
             // 
             // numericUpDownSecondGunpowder2
             // 
@@ -1253,6 +1425,15 @@
             this.numericUpDownSecondGunpowder2.Size = new System.Drawing.Size(45, 22);
             this.numericUpDownSecondGunpowder2.TabIndex = 113;
             // 
+            // label64
+            // 
+            this.label64.AutoSize = true;
+            this.label64.Location = new System.Drawing.Point(91, 193);
+            this.label64.Name = "label64";
+            this.label64.Size = new System.Drawing.Size(101, 17);
+            this.label64.TabIndex = 151;
+            this.label64.Text = "Crew Members";
+            // 
             // numericUpDownSecondAle2
             // 
             this.numericUpDownSecondAle2.Location = new System.Drawing.Point(30, 252);
@@ -1269,6 +1450,15 @@
             this.numericUpDownSecondAle2.Name = "numericUpDownSecondAle2";
             this.numericUpDownSecondAle2.Size = new System.Drawing.Size(45, 22);
             this.numericUpDownSecondAle2.TabIndex = 112;
+            // 
+            // label65
+            // 
+            this.label65.AutoSize = true;
+            this.label65.Location = new System.Drawing.Point(91, 100);
+            this.label65.Name = "label65";
+            this.label65.Size = new System.Drawing.Size(65, 17);
+            this.label65.TabIndex = 150;
+            this.label65.Text = "Notoriety";
             // 
             // numericUpDownSecondIntegrity2
             // 
@@ -1287,6 +1477,15 @@
             this.numericUpDownSecondIntegrity2.Size = new System.Drawing.Size(45, 22);
             this.numericUpDownSecondIntegrity2.TabIndex = 111;
             // 
+            // label66
+            // 
+            this.label66.AutoSize = true;
+            this.label66.Location = new System.Drawing.Point(92, 149);
+            this.label66.Name = "label66";
+            this.label66.Size = new System.Drawing.Size(30, 17);
+            this.label66.TabIndex = 149;
+            this.label66.Text = "Evil";
+            // 
             // numericUpDownSecondCharisma2
             // 
             this.numericUpDownSecondCharisma2.Location = new System.Drawing.Point(30, 121);
@@ -1304,6 +1503,24 @@
             this.numericUpDownSecondCharisma2.Size = new System.Drawing.Size(45, 22);
             this.numericUpDownSecondCharisma2.TabIndex = 110;
             // 
+            // label67
+            // 
+            this.label67.AutoSize = true;
+            this.label67.Location = new System.Drawing.Point(95, 68);
+            this.label67.Name = "label67";
+            this.label67.Size = new System.Drawing.Size(51, 17);
+            this.label67.TabIndex = 148;
+            this.label67.Text = "Morale";
+            // 
+            // label68
+            // 
+            this.label68.AutoSize = true;
+            this.label68.Location = new System.Drawing.Point(91, 123);
+            this.label68.Name = "label68";
+            this.label68.Size = new System.Drawing.Size(67, 17);
+            this.label68.TabIndex = 147;
+            this.label68.Text = "Charisma";
+            // 
             // numericUpDownSecondNotoriety2
             // 
             this.numericUpDownSecondNotoriety2.Location = new System.Drawing.Point(30, 93);
@@ -1320,6 +1537,15 @@
             this.numericUpDownSecondNotoriety2.Name = "numericUpDownSecondNotoriety2";
             this.numericUpDownSecondNotoriety2.Size = new System.Drawing.Size(45, 22);
             this.numericUpDownSecondNotoriety2.TabIndex = 109;
+            // 
+            // label69
+            // 
+            this.label69.AutoSize = true;
+            this.label69.Location = new System.Drawing.Point(93, 41);
+            this.label69.Name = "label69";
+            this.label69.Size = new System.Drawing.Size(28, 17);
+            this.label69.TabIndex = 146;
+            this.label69.Text = "Wit";
             // 
             // numericUpDownSecondMorale2
             // 
@@ -1373,23 +1599,28 @@
             this.label2.TabIndex = 122;
             this.label2.Text = "Success or Fail?";
             // 
-            // comboBox1
+            // FightDif2
             // 
-            this.comboBox1.FormattingEnabled = true;
-            this.comboBox1.Location = new System.Drawing.Point(827, 824);
-            this.comboBox1.Name = "comboBox1";
-            this.comboBox1.Size = new System.Drawing.Size(121, 24);
-            this.comboBox1.TabIndex = 121;
+            this.FightDif2.AllowDrop = true;
+            this.FightDif2.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
+            this.FightDif2.FlatStyle = System.Windows.Forms.FlatStyle.System;
+            this.FightDif2.FormattingEnabled = true;
+            this.FightDif2.Location = new System.Drawing.Point(827, 824);
+            this.FightDif2.Name = "FightDif2";
+            this.FightDif2.Size = new System.Drawing.Size(121, 24);
+            this.FightDif2.TabIndex = 121;
+            this.FightDif2.SelectedIndexChanged += new System.EventHandler(this.FightDifCombo_SelectedIndexChanged);
             // 
-            // checkBox11
+            // FightCheck2
             // 
-            this.checkBox11.AutoSize = true;
-            this.checkBox11.Location = new System.Drawing.Point(827, 793);
-            this.checkBox11.Name = "checkBox11";
-            this.checkBox11.Size = new System.Drawing.Size(121, 21);
-            this.checkBox11.TabIndex = 120;
-            this.checkBox11.Text = "Engages Fight";
-            this.checkBox11.UseVisualStyleBackColor = true;
+            this.FightCheck2.AutoSize = true;
+            this.FightCheck2.Location = new System.Drawing.Point(827, 793);
+            this.FightCheck2.Name = "FightCheck2";
+            this.FightCheck2.Size = new System.Drawing.Size(121, 21);
+            this.FightCheck2.TabIndex = 120;
+            this.FightCheck2.Text = "Engages Fight";
+            this.FightCheck2.UseVisualStyleBackColor = true;
+            this.FightCheck2.CheckedChanged += new System.EventHandler(this.checkBox11_CheckedChanged);
             // 
             // groupBox7
             // 
@@ -1420,6 +1651,24 @@
             this.groupBox7.TabStop = false;
             this.groupBox7.Text = "Rewards / Losses";
             // 
+            // label50
+            // 
+            this.label50.AutoSize = true;
+            this.label50.Location = new System.Drawing.Point(90, 310);
+            this.label50.Name = "label50";
+            this.label50.Size = new System.Drawing.Size(77, 17);
+            this.label50.TabIndex = 145;
+            this.label50.Text = "Gold Coins";
+            // 
+            // label51
+            // 
+            this.label51.AutoSize = true;
+            this.label51.Location = new System.Drawing.Point(90, 284);
+            this.label51.Name = "label51";
+            this.label51.Size = new System.Drawing.Size(81, 17);
+            this.label51.TabIndex = 144;
+            this.label51.Text = "Gunpowder";
+            // 
             // numericUpDownFirstCrew2
             // 
             this.numericUpDownFirstCrew2.Location = new System.Drawing.Point(30, 190);
@@ -1436,6 +1685,15 @@
             this.numericUpDownFirstCrew2.Name = "numericUpDownFirstCrew2";
             this.numericUpDownFirstCrew2.Size = new System.Drawing.Size(45, 22);
             this.numericUpDownFirstCrew2.TabIndex = 116;
+            // 
+            // label52
+            // 
+            this.label52.AutoSize = true;
+            this.label52.Location = new System.Drawing.Point(90, 257);
+            this.label52.Name = "label52";
+            this.label52.Size = new System.Drawing.Size(28, 17);
+            this.label52.TabIndex = 143;
+            this.label52.Text = "Ale";
             // 
             // numericUpDownFirstEvil2
             // 
@@ -1454,6 +1712,15 @@
             this.numericUpDownFirstEvil2.Size = new System.Drawing.Size(45, 22);
             this.numericUpDownFirstEvil2.TabIndex = 115;
             // 
+            // label53
+            // 
+            this.label53.AutoSize = true;
+            this.label53.Location = new System.Drawing.Point(92, 216);
+            this.label53.Name = "label53";
+            this.label53.Size = new System.Drawing.Size(88, 17);
+            this.label53.TabIndex = 142;
+            this.label53.Text = "Integrity (hp)";
+            // 
             // numericUpDownFirstGold2
             // 
             this.numericUpDownFirstGold2.Location = new System.Drawing.Point(30, 308);
@@ -1470,6 +1737,15 @@
             this.numericUpDownFirstGold2.Name = "numericUpDownFirstGold2";
             this.numericUpDownFirstGold2.Size = new System.Drawing.Size(45, 22);
             this.numericUpDownFirstGold2.TabIndex = 114;
+            // 
+            // label54
+            // 
+            this.label54.AutoSize = true;
+            this.label54.Location = new System.Drawing.Point(90, 189);
+            this.label54.Name = "label54";
+            this.label54.Size = new System.Drawing.Size(101, 17);
+            this.label54.TabIndex = 141;
+            this.label54.Text = "Crew Members";
             // 
             // numericUpDownFirstGunpowder2
             // 
@@ -1488,6 +1764,15 @@
             this.numericUpDownFirstGunpowder2.Size = new System.Drawing.Size(45, 22);
             this.numericUpDownFirstGunpowder2.TabIndex = 113;
             // 
+            // label55
+            // 
+            this.label55.AutoSize = true;
+            this.label55.Location = new System.Drawing.Point(90, 96);
+            this.label55.Name = "label55";
+            this.label55.Size = new System.Drawing.Size(65, 17);
+            this.label55.TabIndex = 140;
+            this.label55.Text = "Notoriety";
+            // 
             // numericUpDownFirstAle2
             // 
             this.numericUpDownFirstAle2.Location = new System.Drawing.Point(30, 252);
@@ -1504,6 +1789,15 @@
             this.numericUpDownFirstAle2.Name = "numericUpDownFirstAle2";
             this.numericUpDownFirstAle2.Size = new System.Drawing.Size(45, 22);
             this.numericUpDownFirstAle2.TabIndex = 112;
+            // 
+            // label56
+            // 
+            this.label56.AutoSize = true;
+            this.label56.Location = new System.Drawing.Point(91, 145);
+            this.label56.Name = "label56";
+            this.label56.Size = new System.Drawing.Size(30, 17);
+            this.label56.TabIndex = 139;
+            this.label56.Text = "Evil";
             // 
             // numericUpDownFirstIntegrity2
             // 
@@ -1522,6 +1816,15 @@
             this.numericUpDownFirstIntegrity2.Size = new System.Drawing.Size(45, 22);
             this.numericUpDownFirstIntegrity2.TabIndex = 111;
             // 
+            // label57
+            // 
+            this.label57.AutoSize = true;
+            this.label57.Location = new System.Drawing.Point(94, 64);
+            this.label57.Name = "label57";
+            this.label57.Size = new System.Drawing.Size(51, 17);
+            this.label57.TabIndex = 138;
+            this.label57.Text = "Morale";
+            // 
             // numericUpDownFirstCharisma2
             // 
             this.numericUpDownFirstCharisma2.Location = new System.Drawing.Point(30, 121);
@@ -1539,6 +1842,15 @@
             this.numericUpDownFirstCharisma2.Size = new System.Drawing.Size(45, 22);
             this.numericUpDownFirstCharisma2.TabIndex = 110;
             // 
+            // label58
+            // 
+            this.label58.AutoSize = true;
+            this.label58.Location = new System.Drawing.Point(90, 119);
+            this.label58.Name = "label58";
+            this.label58.Size = new System.Drawing.Size(67, 17);
+            this.label58.TabIndex = 137;
+            this.label58.Text = "Charisma";
+            // 
             // numericUpDownFirstNotoriety2
             // 
             this.numericUpDownFirstNotoriety2.Location = new System.Drawing.Point(30, 93);
@@ -1555,6 +1867,15 @@
             this.numericUpDownFirstNotoriety2.Name = "numericUpDownFirstNotoriety2";
             this.numericUpDownFirstNotoriety2.Size = new System.Drawing.Size(45, 22);
             this.numericUpDownFirstNotoriety2.TabIndex = 109;
+            // 
+            // label59
+            // 
+            this.label59.AutoSize = true;
+            this.label59.Location = new System.Drawing.Point(92, 37);
+            this.label59.Name = "label59";
+            this.label59.Size = new System.Drawing.Size(28, 17);
+            this.label59.TabIndex = 136;
+            this.label59.Text = "Wit";
             // 
             // numericUpDownFirstMorale2
             // 
@@ -1724,23 +2045,18 @@
             // 
             this.numericUpDownOddsIntegrity2.Location = new System.Drawing.Point(36, 301);
             this.numericUpDownOddsIntegrity2.Maximum = new decimal(new int[] {
-            5,
+            20,
             0,
             0,
             0});
             this.numericUpDownOddsIntegrity2.Minimum = new decimal(new int[] {
-            1,
+            20,
             0,
             0,
-            0});
+            -2147483648});
             this.numericUpDownOddsIntegrity2.Name = "numericUpDownOddsIntegrity2";
-            this.numericUpDownOddsIntegrity2.Size = new System.Drawing.Size(36, 22);
+            this.numericUpDownOddsIntegrity2.Size = new System.Drawing.Size(56, 22);
             this.numericUpDownOddsIntegrity2.TabIndex = 104;
-            this.numericUpDownOddsIntegrity2.Value = new decimal(new int[] {
-            1,
-            0,
-            0,
-            0});
             // 
             // firstOdds2
             // 
@@ -1758,199 +2074,154 @@
             // 
             this.numericUpDownOddsGold2.Location = new System.Drawing.Point(36, 390);
             this.numericUpDownOddsGold2.Maximum = new decimal(new int[] {
-            5,
+            20,
             0,
             0,
             0});
             this.numericUpDownOddsGold2.Minimum = new decimal(new int[] {
-            1,
+            20,
             0,
             0,
-            0});
+            -2147483648});
             this.numericUpDownOddsGold2.Name = "numericUpDownOddsGold2";
-            this.numericUpDownOddsGold2.Size = new System.Drawing.Size(36, 22);
+            this.numericUpDownOddsGold2.Size = new System.Drawing.Size(56, 22);
             this.numericUpDownOddsGold2.TabIndex = 103;
-            this.numericUpDownOddsGold2.Value = new decimal(new int[] {
-            1,
-            0,
-            0,
-            0});
             // 
             // numericUpDownOddsGunpowder2
             // 
             this.numericUpDownOddsGunpowder2.Location = new System.Drawing.Point(36, 364);
             this.numericUpDownOddsGunpowder2.Maximum = new decimal(new int[] {
-            5,
+            20,
             0,
             0,
             0});
             this.numericUpDownOddsGunpowder2.Minimum = new decimal(new int[] {
-            1,
+            20,
             0,
             0,
-            0});
+            -2147483648});
             this.numericUpDownOddsGunpowder2.Name = "numericUpDownOddsGunpowder2";
-            this.numericUpDownOddsGunpowder2.Size = new System.Drawing.Size(36, 22);
+            this.numericUpDownOddsGunpowder2.Size = new System.Drawing.Size(56, 22);
             this.numericUpDownOddsGunpowder2.TabIndex = 102;
-            this.numericUpDownOddsGunpowder2.Value = new decimal(new int[] {
-            1,
-            0,
-            0,
-            0});
             // 
             // numericUpDownOddsAle2
             // 
             this.numericUpDownOddsAle2.Location = new System.Drawing.Point(36, 339);
             this.numericUpDownOddsAle2.Maximum = new decimal(new int[] {
-            5,
+            20,
             0,
             0,
             0});
             this.numericUpDownOddsAle2.Minimum = new decimal(new int[] {
-            1,
+            20,
             0,
             0,
-            0});
+            -2147483648});
             this.numericUpDownOddsAle2.Name = "numericUpDownOddsAle2";
-            this.numericUpDownOddsAle2.Size = new System.Drawing.Size(36, 22);
+            this.numericUpDownOddsAle2.Size = new System.Drawing.Size(56, 22);
             this.numericUpDownOddsAle2.TabIndex = 101;
-            this.numericUpDownOddsAle2.Value = new decimal(new int[] {
-            1,
-            0,
-            0,
-            0});
             // 
             // numericUpDownOddsCrew2
             // 
             this.numericUpDownOddsCrew2.Location = new System.Drawing.Point(36, 274);
             this.numericUpDownOddsCrew2.Maximum = new decimal(new int[] {
-            5,
+            20,
             0,
             0,
             0});
             this.numericUpDownOddsCrew2.Minimum = new decimal(new int[] {
-            1,
+            20,
             0,
             0,
-            0});
+            -2147483648});
             this.numericUpDownOddsCrew2.Name = "numericUpDownOddsCrew2";
-            this.numericUpDownOddsCrew2.Size = new System.Drawing.Size(36, 22);
+            this.numericUpDownOddsCrew2.Size = new System.Drawing.Size(56, 22);
             this.numericUpDownOddsCrew2.TabIndex = 100;
-            this.numericUpDownOddsCrew2.Value = new decimal(new int[] {
-            1,
-            0,
-            0,
-            0});
             // 
             // numericUpDownOddsEvil2
             // 
             this.numericUpDownOddsEvil2.Location = new System.Drawing.Point(36, 230);
             this.numericUpDownOddsEvil2.Maximum = new decimal(new int[] {
-            5,
+            20,
             0,
             0,
             0});
             this.numericUpDownOddsEvil2.Minimum = new decimal(new int[] {
-            1,
+            20,
             0,
             0,
-            0});
+            -2147483648});
             this.numericUpDownOddsEvil2.Name = "numericUpDownOddsEvil2";
-            this.numericUpDownOddsEvil2.Size = new System.Drawing.Size(36, 22);
+            this.numericUpDownOddsEvil2.Size = new System.Drawing.Size(56, 22);
             this.numericUpDownOddsEvil2.TabIndex = 99;
-            this.numericUpDownOddsEvil2.Value = new decimal(new int[] {
-            1,
-            0,
-            0,
-            0});
             // 
             // numericUpDownOddsCharisma2
             // 
             this.numericUpDownOddsCharisma2.Location = new System.Drawing.Point(36, 205);
             this.numericUpDownOddsCharisma2.Maximum = new decimal(new int[] {
-            5,
+            20,
             0,
             0,
             0});
             this.numericUpDownOddsCharisma2.Minimum = new decimal(new int[] {
-            1,
+            20,
             0,
             0,
-            0});
+            -2147483648});
             this.numericUpDownOddsCharisma2.Name = "numericUpDownOddsCharisma2";
-            this.numericUpDownOddsCharisma2.Size = new System.Drawing.Size(36, 22);
+            this.numericUpDownOddsCharisma2.Size = new System.Drawing.Size(56, 22);
             this.numericUpDownOddsCharisma2.TabIndex = 98;
-            this.numericUpDownOddsCharisma2.Value = new decimal(new int[] {
-            1,
-            0,
-            0,
-            0});
             // 
             // numericUpDownOddsNotoriety2
             // 
             this.numericUpDownOddsNotoriety2.Location = new System.Drawing.Point(36, 173);
             this.numericUpDownOddsNotoriety2.Maximum = new decimal(new int[] {
-            5,
+            20,
             0,
             0,
             0});
             this.numericUpDownOddsNotoriety2.Minimum = new decimal(new int[] {
-            1,
+            20,
             0,
             0,
-            0});
+            -2147483648});
             this.numericUpDownOddsNotoriety2.Name = "numericUpDownOddsNotoriety2";
-            this.numericUpDownOddsNotoriety2.Size = new System.Drawing.Size(36, 22);
+            this.numericUpDownOddsNotoriety2.Size = new System.Drawing.Size(56, 22);
             this.numericUpDownOddsNotoriety2.TabIndex = 97;
-            this.numericUpDownOddsNotoriety2.Value = new decimal(new int[] {
-            1,
-            0,
-            0,
-            0});
             // 
             // numericUpDownOddsMorale2
             // 
             this.numericUpDownOddsMorale2.Location = new System.Drawing.Point(36, 147);
             this.numericUpDownOddsMorale2.Maximum = new decimal(new int[] {
-            5,
+            20,
             0,
             0,
             0});
             this.numericUpDownOddsMorale2.Minimum = new decimal(new int[] {
-            1,
+            20,
             0,
             0,
-            0});
+            -2147483648});
             this.numericUpDownOddsMorale2.Name = "numericUpDownOddsMorale2";
-            this.numericUpDownOddsMorale2.Size = new System.Drawing.Size(36, 22);
+            this.numericUpDownOddsMorale2.Size = new System.Drawing.Size(56, 22);
             this.numericUpDownOddsMorale2.TabIndex = 96;
-            this.numericUpDownOddsMorale2.Value = new decimal(new int[] {
-            1,
-            0,
-            0,
-            0});
             // 
             // numericUpDownOddsWit2
             // 
             this.numericUpDownOddsWit2.Location = new System.Drawing.Point(36, 122);
             this.numericUpDownOddsWit2.Maximum = new decimal(new int[] {
-            5,
+            20,
             0,
             0,
             0});
             this.numericUpDownOddsWit2.Minimum = new decimal(new int[] {
-            1,
+            20,
             0,
             0,
-            0});
+            -2147483648});
             this.numericUpDownOddsWit2.Name = "numericUpDownOddsWit2";
-            this.numericUpDownOddsWit2.Size = new System.Drawing.Size(36, 22);
+            this.numericUpDownOddsWit2.Size = new System.Drawing.Size(56, 22);
             this.numericUpDownOddsWit2.TabIndex = 95;
-            this.numericUpDownOddsWit2.Value = new decimal(new int[] {
-            1,
-            0,
-            0,
-            0});
             // 
             // label29
             // 
@@ -1969,366 +2240,6 @@
             this.FirstResultText2.Size = new System.Drawing.Size(389, 102);
             this.FirstResultText2.TabIndex = 116;
             this.FirstResultText2.Text = "You are victorious! You ran away!";
-            // 
-            // label30
-            // 
-            this.label30.AutoSize = true;
-            this.label30.Location = new System.Drawing.Point(90, 316);
-            this.label30.Name = "label30";
-            this.label30.Size = new System.Drawing.Size(77, 17);
-            this.label30.TabIndex = 125;
-            this.label30.Text = "Gold Coins";
-            // 
-            // label31
-            // 
-            this.label31.AutoSize = true;
-            this.label31.Location = new System.Drawing.Point(90, 290);
-            this.label31.Name = "label31";
-            this.label31.Size = new System.Drawing.Size(81, 17);
-            this.label31.TabIndex = 124;
-            this.label31.Text = "Gunpowder";
-            // 
-            // label32
-            // 
-            this.label32.AutoSize = true;
-            this.label32.Location = new System.Drawing.Point(90, 263);
-            this.label32.Name = "label32";
-            this.label32.Size = new System.Drawing.Size(28, 17);
-            this.label32.TabIndex = 123;
-            this.label32.Text = "Ale";
-            // 
-            // label33
-            // 
-            this.label33.AutoSize = true;
-            this.label33.Location = new System.Drawing.Point(92, 222);
-            this.label33.Name = "label33";
-            this.label33.Size = new System.Drawing.Size(88, 17);
-            this.label33.TabIndex = 122;
-            this.label33.Text = "Integrity (hp)";
-            // 
-            // label34
-            // 
-            this.label34.AutoSize = true;
-            this.label34.Location = new System.Drawing.Point(90, 195);
-            this.label34.Name = "label34";
-            this.label34.Size = new System.Drawing.Size(101, 17);
-            this.label34.TabIndex = 121;
-            this.label34.Text = "Crew Members";
-            // 
-            // label35
-            // 
-            this.label35.AutoSize = true;
-            this.label35.Location = new System.Drawing.Point(90, 102);
-            this.label35.Name = "label35";
-            this.label35.Size = new System.Drawing.Size(65, 17);
-            this.label35.TabIndex = 120;
-            this.label35.Text = "Notoriety";
-            // 
-            // label36
-            // 
-            this.label36.AutoSize = true;
-            this.label36.Location = new System.Drawing.Point(91, 151);
-            this.label36.Name = "label36";
-            this.label36.Size = new System.Drawing.Size(30, 17);
-            this.label36.TabIndex = 119;
-            this.label36.Text = "Evil";
-            // 
-            // label37
-            // 
-            this.label37.AutoSize = true;
-            this.label37.Location = new System.Drawing.Point(94, 70);
-            this.label37.Name = "label37";
-            this.label37.Size = new System.Drawing.Size(51, 17);
-            this.label37.TabIndex = 118;
-            this.label37.Text = "Morale";
-            // 
-            // label38
-            // 
-            this.label38.AutoSize = true;
-            this.label38.Location = new System.Drawing.Point(90, 125);
-            this.label38.Name = "label38";
-            this.label38.Size = new System.Drawing.Size(67, 17);
-            this.label38.TabIndex = 117;
-            this.label38.Text = "Charisma";
-            // 
-            // label39
-            // 
-            this.label39.AutoSize = true;
-            this.label39.Location = new System.Drawing.Point(92, 43);
-            this.label39.Name = "label39";
-            this.label39.Size = new System.Drawing.Size(28, 17);
-            this.label39.TabIndex = 116;
-            this.label39.Text = "Wit";
-            // 
-            // label40
-            // 
-            this.label40.AutoSize = true;
-            this.label40.Location = new System.Drawing.Point(81, 314);
-            this.label40.Name = "label40";
-            this.label40.Size = new System.Drawing.Size(77, 17);
-            this.label40.TabIndex = 135;
-            this.label40.Text = "Gold Coins";
-            // 
-            // label41
-            // 
-            this.label41.AutoSize = true;
-            this.label41.Location = new System.Drawing.Point(81, 288);
-            this.label41.Name = "label41";
-            this.label41.Size = new System.Drawing.Size(81, 17);
-            this.label41.TabIndex = 134;
-            this.label41.Text = "Gunpowder";
-            // 
-            // label42
-            // 
-            this.label42.AutoSize = true;
-            this.label42.Location = new System.Drawing.Point(81, 261);
-            this.label42.Name = "label42";
-            this.label42.Size = new System.Drawing.Size(28, 17);
-            this.label42.TabIndex = 133;
-            this.label42.Text = "Ale";
-            // 
-            // label43
-            // 
-            this.label43.AutoSize = true;
-            this.label43.Location = new System.Drawing.Point(83, 220);
-            this.label43.Name = "label43";
-            this.label43.Size = new System.Drawing.Size(88, 17);
-            this.label43.TabIndex = 132;
-            this.label43.Text = "Integrity (hp)";
-            // 
-            // label44
-            // 
-            this.label44.AutoSize = true;
-            this.label44.Location = new System.Drawing.Point(81, 193);
-            this.label44.Name = "label44";
-            this.label44.Size = new System.Drawing.Size(101, 17);
-            this.label44.TabIndex = 131;
-            this.label44.Text = "Crew Members";
-            // 
-            // label45
-            // 
-            this.label45.AutoSize = true;
-            this.label45.Location = new System.Drawing.Point(81, 100);
-            this.label45.Name = "label45";
-            this.label45.Size = new System.Drawing.Size(65, 17);
-            this.label45.TabIndex = 130;
-            this.label45.Text = "Notoriety";
-            // 
-            // label46
-            // 
-            this.label46.AutoSize = true;
-            this.label46.Location = new System.Drawing.Point(82, 149);
-            this.label46.Name = "label46";
-            this.label46.Size = new System.Drawing.Size(30, 17);
-            this.label46.TabIndex = 129;
-            this.label46.Text = "Evil";
-            // 
-            // label47
-            // 
-            this.label47.AutoSize = true;
-            this.label47.Location = new System.Drawing.Point(85, 68);
-            this.label47.Name = "label47";
-            this.label47.Size = new System.Drawing.Size(51, 17);
-            this.label47.TabIndex = 128;
-            this.label47.Text = "Morale";
-            // 
-            // label48
-            // 
-            this.label48.AutoSize = true;
-            this.label48.Location = new System.Drawing.Point(81, 123);
-            this.label48.Name = "label48";
-            this.label48.Size = new System.Drawing.Size(67, 17);
-            this.label48.TabIndex = 127;
-            this.label48.Text = "Charisma";
-            // 
-            // label49
-            // 
-            this.label49.AutoSize = true;
-            this.label49.Location = new System.Drawing.Point(83, 41);
-            this.label49.Name = "label49";
-            this.label49.Size = new System.Drawing.Size(28, 17);
-            this.label49.TabIndex = 126;
-            this.label49.Text = "Wit";
-            // 
-            // label50
-            // 
-            this.label50.AutoSize = true;
-            this.label50.Location = new System.Drawing.Point(90, 310);
-            this.label50.Name = "label50";
-            this.label50.Size = new System.Drawing.Size(77, 17);
-            this.label50.TabIndex = 145;
-            this.label50.Text = "Gold Coins";
-            // 
-            // label51
-            // 
-            this.label51.AutoSize = true;
-            this.label51.Location = new System.Drawing.Point(90, 284);
-            this.label51.Name = "label51";
-            this.label51.Size = new System.Drawing.Size(81, 17);
-            this.label51.TabIndex = 144;
-            this.label51.Text = "Gunpowder";
-            // 
-            // label52
-            // 
-            this.label52.AutoSize = true;
-            this.label52.Location = new System.Drawing.Point(90, 257);
-            this.label52.Name = "label52";
-            this.label52.Size = new System.Drawing.Size(28, 17);
-            this.label52.TabIndex = 143;
-            this.label52.Text = "Ale";
-            // 
-            // label53
-            // 
-            this.label53.AutoSize = true;
-            this.label53.Location = new System.Drawing.Point(92, 216);
-            this.label53.Name = "label53";
-            this.label53.Size = new System.Drawing.Size(88, 17);
-            this.label53.TabIndex = 142;
-            this.label53.Text = "Integrity (hp)";
-            // 
-            // label54
-            // 
-            this.label54.AutoSize = true;
-            this.label54.Location = new System.Drawing.Point(90, 189);
-            this.label54.Name = "label54";
-            this.label54.Size = new System.Drawing.Size(101, 17);
-            this.label54.TabIndex = 141;
-            this.label54.Text = "Crew Members";
-            // 
-            // label55
-            // 
-            this.label55.AutoSize = true;
-            this.label55.Location = new System.Drawing.Point(90, 96);
-            this.label55.Name = "label55";
-            this.label55.Size = new System.Drawing.Size(65, 17);
-            this.label55.TabIndex = 140;
-            this.label55.Text = "Notoriety";
-            // 
-            // label56
-            // 
-            this.label56.AutoSize = true;
-            this.label56.Location = new System.Drawing.Point(91, 145);
-            this.label56.Name = "label56";
-            this.label56.Size = new System.Drawing.Size(30, 17);
-            this.label56.TabIndex = 139;
-            this.label56.Text = "Evil";
-            // 
-            // label57
-            // 
-            this.label57.AutoSize = true;
-            this.label57.Location = new System.Drawing.Point(94, 64);
-            this.label57.Name = "label57";
-            this.label57.Size = new System.Drawing.Size(51, 17);
-            this.label57.TabIndex = 138;
-            this.label57.Text = "Morale";
-            // 
-            // label58
-            // 
-            this.label58.AutoSize = true;
-            this.label58.Location = new System.Drawing.Point(90, 119);
-            this.label58.Name = "label58";
-            this.label58.Size = new System.Drawing.Size(67, 17);
-            this.label58.TabIndex = 137;
-            this.label58.Text = "Charisma";
-            // 
-            // label59
-            // 
-            this.label59.AutoSize = true;
-            this.label59.Location = new System.Drawing.Point(92, 37);
-            this.label59.Name = "label59";
-            this.label59.Size = new System.Drawing.Size(28, 17);
-            this.label59.TabIndex = 136;
-            this.label59.Text = "Wit";
-            // 
-            // label60
-            // 
-            this.label60.AutoSize = true;
-            this.label60.Location = new System.Drawing.Point(91, 314);
-            this.label60.Name = "label60";
-            this.label60.Size = new System.Drawing.Size(77, 17);
-            this.label60.TabIndex = 155;
-            this.label60.Text = "Gold Coins";
-            // 
-            // label61
-            // 
-            this.label61.AutoSize = true;
-            this.label61.Location = new System.Drawing.Point(91, 288);
-            this.label61.Name = "label61";
-            this.label61.Size = new System.Drawing.Size(81, 17);
-            this.label61.TabIndex = 154;
-            this.label61.Text = "Gunpowder";
-            // 
-            // label62
-            // 
-            this.label62.AutoSize = true;
-            this.label62.Location = new System.Drawing.Point(91, 261);
-            this.label62.Name = "label62";
-            this.label62.Size = new System.Drawing.Size(28, 17);
-            this.label62.TabIndex = 153;
-            this.label62.Text = "Ale";
-            // 
-            // label63
-            // 
-            this.label63.AutoSize = true;
-            this.label63.Location = new System.Drawing.Point(93, 220);
-            this.label63.Name = "label63";
-            this.label63.Size = new System.Drawing.Size(88, 17);
-            this.label63.TabIndex = 152;
-            this.label63.Text = "Integrity (hp)";
-            // 
-            // label64
-            // 
-            this.label64.AutoSize = true;
-            this.label64.Location = new System.Drawing.Point(91, 193);
-            this.label64.Name = "label64";
-            this.label64.Size = new System.Drawing.Size(101, 17);
-            this.label64.TabIndex = 151;
-            this.label64.Text = "Crew Members";
-            // 
-            // label65
-            // 
-            this.label65.AutoSize = true;
-            this.label65.Location = new System.Drawing.Point(91, 100);
-            this.label65.Name = "label65";
-            this.label65.Size = new System.Drawing.Size(65, 17);
-            this.label65.TabIndex = 150;
-            this.label65.Text = "Notoriety";
-            // 
-            // label66
-            // 
-            this.label66.AutoSize = true;
-            this.label66.Location = new System.Drawing.Point(92, 149);
-            this.label66.Name = "label66";
-            this.label66.Size = new System.Drawing.Size(30, 17);
-            this.label66.TabIndex = 149;
-            this.label66.Text = "Evil";
-            // 
-            // label67
-            // 
-            this.label67.AutoSize = true;
-            this.label67.Location = new System.Drawing.Point(95, 68);
-            this.label67.Name = "label67";
-            this.label67.Size = new System.Drawing.Size(51, 17);
-            this.label67.TabIndex = 148;
-            this.label67.Text = "Morale";
-            // 
-            // label68
-            // 
-            this.label68.AutoSize = true;
-            this.label68.Location = new System.Drawing.Point(91, 123);
-            this.label68.Name = "label68";
-            this.label68.Size = new System.Drawing.Size(67, 17);
-            this.label68.TabIndex = 147;
-            this.label68.Text = "Charisma";
-            // 
-            // label69
-            // 
-            this.label69.AutoSize = true;
-            this.label69.Location = new System.Drawing.Point(93, 41);
-            this.label69.Name = "label69";
-            this.label69.Size = new System.Drawing.Size(28, 17);
-            this.label69.TabIndex = 146;
-            this.label69.Text = "Wit";
             // 
             // label70
             // 
@@ -2358,8 +2269,8 @@
             this.Controls.Add(this.groupBox6);
             this.Controls.Add(this.SecondResultText2);
             this.Controls.Add(this.label2);
-            this.Controls.Add(this.comboBox1);
-            this.Controls.Add(this.checkBox11);
+            this.Controls.Add(this.FightDif2);
+            this.Controls.Add(this.FightCheck2);
             this.Controls.Add(this.groupBox7);
             this.Controls.Add(this.groupBox8);
             this.Controls.Add(this.label29);
@@ -2368,8 +2279,8 @@
             this.Controls.Add(this.groupBox4);
             this.Controls.Add(this.SecondResultText1);
             this.Controls.Add(this.label4);
-            this.Controls.Add(this.firstDiff1);
-            this.Controls.Add(this.checkBox12);
+            this.Controls.Add(this.FightDif1);
+            this.Controls.Add(this.FightCheck1);
             this.Controls.Add(this.groupBox3);
             this.Controls.Add(this.groupBox2);
             this.Controls.Add(this.createButton);
@@ -2504,8 +2415,8 @@
         private System.Windows.Forms.NumericUpDown numericUpDownFirstNotoriety1;
         private System.Windows.Forms.NumericUpDown numericUpDownFirstMorale1;
         private System.Windows.Forms.NumericUpDown numericUpDownFirstWit1;
-        private System.Windows.Forms.CheckBox checkBox12;
-        private System.Windows.Forms.ComboBox firstDiff1;
+        private System.Windows.Forms.CheckBox FightCheck1;
+        private System.Windows.Forms.ComboBox FightDif1;
         private System.Windows.Forms.Label label4;
         private System.Windows.Forms.NumericUpDown numericUpDownSecondCrew1;
         private System.Windows.Forms.NumericUpDown numericUpDownSecondEvil1;
@@ -2543,8 +2454,8 @@
         private System.Windows.Forms.NumericUpDown numericUpDownSecondWit2;
         private System.Windows.Forms.TextBox SecondResultText2;
         private System.Windows.Forms.Label label2;
-        private System.Windows.Forms.ComboBox comboBox1;
-        private System.Windows.Forms.CheckBox checkBox11;
+        private System.Windows.Forms.ComboBox FightDif2;
+        private System.Windows.Forms.CheckBox FightCheck2;
         private System.Windows.Forms.GroupBox groupBox7;
         private System.Windows.Forms.NumericUpDown numericUpDownFirstCrew2;
         private System.Windows.Forms.NumericUpDown numericUpDownFirstEvil2;

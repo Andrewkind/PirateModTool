@@ -52,10 +52,19 @@ namespace PirateMod
             SuccessChoiceCombo.SelectedIndex = 0; */
 
 
-            firstDiff1.Items.Add("Random");
-            firstDiff1.Items.Add("Easy");
-            firstDiff1.Items.Add("Medium");
-            firstDiff1.Items.Add("Hard");
+            FightDif1.Items.Add("Random");
+            FightDif1.Items.Add("Easy");
+            FightDif1.Items.Add("Medium");
+            FightDif1.Items.Add("Hard");
+            FightDif1.SelectedIndex = 0;
+
+
+            FightDif2.Items.Add("Random");
+            FightDif2.Items.Add("Easy");
+            FightDif2.Items.Add("Medium");
+            FightDif2.Items.Add("Hard");
+            FightDif2.SelectedIndex = 0;
+            
         }
 
         private void typesCombo_SelectedIndexChanged(object sender, EventArgs e)
@@ -215,6 +224,10 @@ namespace PirateMod
             file.WriteLine("~Failure Ale1^" + numericUpDownSecondAle1.Value);
             file.WriteLine("~Failure Gunpowder1^" + numericUpDownSecondGunpowder1.Value);
             file.WriteLine("~Failure Coins1^" + numericUpDownSecondGold1.Value);
+
+
+            file.WriteLine("~Make Fight1^" + FightCheck1.Checked);
+            file.WriteLine("~Fight Dif1^" + FightDif1.Text);
             // END OF 1
 
        
@@ -269,7 +282,11 @@ namespace PirateMod
             file.WriteLine("~Failure Ale2^" + numericUpDownSecondAle2.Value);
             file.WriteLine("~Failure Gunpowder2^" + numericUpDownSecondGunpowder2.Value);
             file.WriteLine("~Failure Coins2^" + numericUpDownSecondGold2.Value);
-            
+
+            file.WriteLine("~Make Fight2^" + FightCheck2.Checked);
+            file.WriteLine("~Fight Dif2^" + FightDif2.Text);
+
+
        
             //End of   2
 
@@ -293,6 +310,32 @@ namespace PirateMod
         private void optionsChoiceCombo_SelectedIndexChanged(object sender, EventArgs e)
         {
             
+
+        }
+
+        private void numericUpDownOddsWit1_ValueChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void groupBox2_Enter(object sender, EventArgs e)
+        {
+
+        }
+
+        private void checkBox12_CheckedChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void checkBox11_CheckedChanged(object sender, EventArgs e)
+        {
+            FightDif2.Visible = false;
+
+        }
+
+        private void FightDifCombo_SelectedIndexChanged(object sender, EventArgs e)
+        {
 
         }
 
