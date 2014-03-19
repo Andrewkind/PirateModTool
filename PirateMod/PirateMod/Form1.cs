@@ -164,21 +164,21 @@ namespace PirateMod
             // lets parse into our textfile
 
             System.IO.StreamWriter file = new System.IO.StreamWriter(fileName, true);
-            file.WriteLine("~eventName: " + f_eventName);   // MUST CHECK IF An EVENT BY THIS nAME EXISTS....
+            file.WriteLine("~eventName^" + f_eventName);   // MUST CHECK IF An EVENT BY THIS nAME EXISTS....
             file.Close();
 
             file = new System.IO.StreamWriter(fileName, true);  // adding true makes it append instead of overwrite
 
             //System.IO.StreamWriter file = new System.IO.StreamWriter(fileName); // overwrites..
 
-            file.WriteLine("~event text^ " + f_eventText);      
+            file.WriteLine("~event text^" + f_eventText);      
             
 
             // start of 1
             //SUCCESS FAILURE TEXT INFO 1
-            file.WriteLine("~option text1^ " + optionText1.Text);
-            file.WriteLine("~success text1^ " + f_firstResultText1);
-            file.WriteLine("~fail text1^ " + SecondResultText1.Text);
+            file.WriteLine("~option text1^" + optionText1.Text);
+            file.WriteLine("~success text1^" + f_firstResultText1);
+            file.WriteLine("~fail text1^" + SecondResultText1.Text);
 
             
 
